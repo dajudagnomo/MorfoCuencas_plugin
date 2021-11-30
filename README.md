@@ -5,4 +5,4 @@
 [enlace en línea: Youtube](https://youtu.be/fHHnLqqyL_E) 
 
  ## Instructivo de instalación Plugin Morfocuencas
- [enlace en línea: Youtube](https://youtu.be/fHHnLqqyL_E)
+ [enlace en línea: Youtube](./instructivo)
